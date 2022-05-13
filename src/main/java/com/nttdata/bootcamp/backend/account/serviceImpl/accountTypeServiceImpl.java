@@ -1,7 +1,6 @@
 package com.nttdata.bootcamp.backend.account.serviceImpl;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.data.mongodb.core.mapping.Field;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
